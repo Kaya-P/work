@@ -1,0 +1,8 @@
+clear
+reset
+as os os
+as nested_implicit libc nested_implicit
+ld os
+ld nested_implicit
+break set TRAP_HALT
+
