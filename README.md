@@ -1,5 +1,5 @@
 # work
-Here a few of the projects I have developed. 
+Here are a few of the projects I have developed. 
 ## 1. Predictor(ML)
   This folder includes the documentation for the virtual enviroment I set up on my computer to develop it. And the main .py file that you can 
  run. My program used the keras library and more specifically a LSTM model to predict stock prices based on 60 days of historical data for stocks. 
