@@ -1,0 +1,14 @@
+Welcome to Minesweeper!!
+This is the classic game with a 9 by 9 board and ten mines.
+Click on a block to uncover it.
+If there is a mine under there, you lose the game. 
+If you pick a block with a number on it, the number tells you how 
+many mines exist in its direct neighbours. 
+Click on the flag button to let you mark which blocks you think are a mine.
+You are only allowed to select 10 blocks as mines, there is counter keeping track.
+If you change your mind, while having clicked the flag button still on, click on the flag 
+again and it should disappear.
+Click on the flag button to go back to being able to select blocks.
+After the game ends, press restart to try again. 
+
+Have fun!!!
